@@ -35,15 +35,6 @@ btnEl.addEventListener("click", function(){
         alert("Il Player ha vinto!!!");
     
     }
-
-    
-
-    
-
-    
-
-
-    
 })
 
     
