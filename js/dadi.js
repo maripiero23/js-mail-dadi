@@ -26,13 +26,13 @@ btnEl.addEventListener("click", function(){
 
 
     if( numberPc > numberPlayer ){
-        alert("Il pc ha vinto");
+        console.log("Il pc ha vinto");
     
     } else if( numberPc === numberPlayer){
-        alert("Pareggio");
+        console.log("Pareggio");
     
     } else{
-        alert("Il Player ha vinto!!!");
+        console.log("Il Player ha vinto!!!");
     
     }
 })
